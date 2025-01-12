@@ -6,4 +6,4 @@ workdir /app
 run npm i
 run npm run build
 
-cmd entrypoint.sh
+cmd /app/entrypoint.sh
