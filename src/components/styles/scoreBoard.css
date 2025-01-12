@@ -29,11 +29,11 @@
   background-color: #4a626d;
 }
 .mini-token.three {
-  background-image: url("../../assets/trade_3.png");
+  background-image: url("../assets/trade_3.png");
 }
 .mini-token.four {
-  background-image: url("../../assets/trade_4.png");
+  background-image: url("../assets/trade_4.png");
 }
 .mini-token.five {
-  background-image: url("../../assets/trade_5.png");
+  background-image: url("../assets/trade_5.png");
 }

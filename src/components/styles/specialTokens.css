@@ -36,16 +36,16 @@
   background-color: #4a626d;
 }
 .token.three {
-  background-image: url("../../assets/trade_3.png");
+  background-image: url("../assets/trade_3.png");
 }
 .token.four {
-  background-image: url("../../assets/trade_4.png");
+  background-image: url("../assets/trade_4.png");
 }
 .token.five {
-  background-image: url("../../assets/trade_5.png");
+  background-image: url("../assets/trade_5.png");
 }
 .token.herd {
-  background-image: url("../../assets/camel_transparent.png");
+  background-image: url("../assets/camel_transparent.png");
 }
 @keyframes pulsate {
   0% {
