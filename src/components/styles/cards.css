@@ -113,7 +113,7 @@
   background: #8d6e63;
 }
 .card-inside.camel {
-  background-image: url("../assets/camel.png");
+  background-image: url("../../assets/camel.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 50% 50%;
