@@ -33,9 +33,6 @@ The only departure from the original rules in Udaipur is the removal of the **Se
 - Set `APP_PRODUCTION=true` in **src/config.js**
 - Run `npm run start` to deploy the app
 
-Deploy to **Heroku** with the button below.  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/skvrahul/udaipur-game/tree/deploy_heroku)
-
 ## TODO
 
 - [x] Player move history in a sidebar (Commit [69e19588e7](https://github.com/skvrahul/UdaipurGame/commit/69e19588e7bd186ae4be670f32f510e48848a2c9))
